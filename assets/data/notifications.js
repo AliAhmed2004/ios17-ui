@@ -1,0 +1,118 @@
+import calendar from "../images/apps/calendar.png";
+import fitness from "../images/apps/fitness.webp";
+import mail from "../images/apps/mail.png";
+
+export default [
+  {
+    id: "1",
+    createdAt: "1m",
+    icon: fitness,
+    title: "Keep it going",
+    subtitle: "Your best day this week was Friday. Finish the week strong.",
+  },
+  {
+    id: "2",
+    createdAt: "10m",
+    icon: calendar,
+    title: "Team meeting",
+    subtitle: "10:00 - 11:00",
+  },
+  {
+    id: "3",
+    createdAt: "45m",
+    icon: mail,
+    title: "Inquiry",
+    subtitle: "Hey Ali, how is it going?",
+  },
+  {
+    id: "4",
+    createdAt: "1h",
+    icon: fitness,
+    title: "Workout Time",
+    subtitle: "Time to hit the gym!",
+  },
+  {
+    id: "5",
+    createdAt: "2h",
+    icon: calendar,
+    title: "Project Review",
+    subtitle: "Remember to review the project deliverables",
+  },
+  {
+    id: "6",
+    createdAt: "3h",
+    icon: fitness,
+    title: "Daily Run",
+    subtitle: "A perfect day for a run outside",
+  },
+  {
+    id: "7",
+    createdAt: "4h",
+    icon: mail,
+    title: "Newsletter",
+    subtitle: "New articles are waiting for your read",
+  },
+  {
+    id: "8",
+    createdAt: "6h",
+    icon: fitness,
+    title: "10,000 steps",
+    subtitle: "Your best day this week was Friday. Finish the week strong.",
+  },
+  {
+    id: "9",
+    createdAt: "8h",
+    icon: calendar,
+    title: "Meeting with HR",
+    subtitle: "Schedule time for the quarterly review",
+  },
+  {
+    id: "10",
+    createdAt: "10h",
+    icon: mail,
+    title: "Weekly Report",
+    subtitle: "The weekly report is ready for review",
+  },
+  {
+    id: "11",
+    createdAt: "12h",
+    icon: fitness,
+    title: "Yoga Class",
+    subtitle: "Yoga class starts in 30 minutes",
+  },
+  {
+    id: "12",
+    createdAt: "14h",
+    icon: calendar,
+    title: "Team Lunch",
+    subtitle: "Team lunch scheduled for tomorrow",
+  },
+  {
+    id: "13",
+    createdAt: "16h",
+    icon: mail,
+    title: "Invitation",
+    subtitle: "You've been invited to a networking event",
+  },
+  {
+    id: "14",
+    createdAt: "18h",
+    icon: fitness,
+    title: "Hydration Reminder",
+    subtitle: "Remember to drink water regularly",
+  },
+  {
+    id: "15",
+    createdAt: "20h",
+    icon: calendar,
+    title: "Deadline Tomorrow",
+    subtitle: "Final reminder: project deadline is tomorrow",
+  },
+  {
+    id: "16",
+    createdAt: "22h",
+    icon: mail,
+    title: "New Message",
+    subtitle: "You have a new message from John",
+  },
+];
